@@ -1,0 +1,6 @@
+{
+  "name": "OmniTranslate AI",
+  "description": "Elite context-aware translation engine featuring idiom adaptation, cultural awareness, tone modulation, and native voice playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
